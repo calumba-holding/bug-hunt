@@ -56,6 +56,12 @@ Based on the adversarial bug hunting technique described by [@systematicls](http
 
 Brand by [Kitt](https://x.com/Kitt_Curious) at [Curious Endeavor](https://curiousendeavor.com/)
 
+## Contributing
+
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 MIT
